@@ -19,7 +19,7 @@ ATANK is an android ransomware builder.
 
 Rename the `main` file to `main.sh`, then rename the `setup` file to `setup.sh`
 
-Make Executable both of the files you just renamed
+Mark both of the files you just renamed as executable
 
 `chmod +x main.sh`
 
