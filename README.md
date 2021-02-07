@@ -25,6 +25,8 @@ Mark both of the files you just renamed as executable
 
 `chmod +x setup.sh`
 
+# Now you can run it
+
 `./setup.sh` 
 
 `./main.sh`
